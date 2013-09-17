@@ -1,0 +1,48 @@
+footer {
+    margin-bottom:0 !important;
+}
+
+.logo {
+    display:inline-block;
+    padding:0.2em;
+    border-radius:0.3em;
+    background-color:#ffff00;
+}
+
+.huge {
+    font-size:8em;
+}
+
+.icon-ban-circle  {
+    color:#d9534f;
+}
+
+.twitter {
+    font-size:2em;
+}
+
+.twitter:hover, .twitter:active,
+.video:hover, .video:active {
+    text-decoration:none;
+}
+
+.video {
+    padding:0.1em;
+    padding-right:0.3em;
+    padding-left:0.3em;
+    font-weight:bold;
+    letter-spacing:-0.07em;
+}
+.video:hover, .video:active {
+    background-color:#428bca;
+    color:#fff;
+    border-radius:0.3em;
+}
+.video:active {
+    background-color:#328bc9;
+}
+
+.m-top {
+    margin-top:1em;
+}
+

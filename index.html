@@ -1,0 +1,122 @@
+<html>
+  <head>
+    <title>Kyiv.JS - Конференция по Front-End разработке</title>
+    <meta name="description" content="Киевский слет front-end разработчиков. Все самое интересное о JavaScript, CoffeeScript и прочие технологии связанные с UX">
+
+    <meta charset="utf-8">
+
+    <style type="text/css">
+      @import "components/bootstrap/dist/css/bootstrap.min.css";
+      @import "components/bootstrap/dist/css/bootstrap-theme.min.css";
+      @import "static/font-awesome/css/font-awesome.min.css";
+      @import "static/custom.css";
+    </style>
+  </head>
+  <body>
+
+    <header class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <h1>KyivJS Meetup <span class="logo icon-terminal">&nbsp;</span></h1>
+            <h3>Следующий <span class="label label-success">19 октября 2013 г.</span></h3>
+          </div>
+          <div class="col-lg-4">
+            <a href="http://twitter.com/kyivjs" class="pull-right icon-twitter twitter m-top"></a>
+          </div>
+        </div>
+
+      </div>
+    </header>
+
+    <section class="container" style="min-height:500px">
+      <p class="lead">4 доклада, 4 новых докладчика, 4 часа. <a class="pull-right icon-youtube-play video" target="_blank" href="http://www.youtube.com/watch?v=nsfpgtqq1IQ">&nbsp;KyivJS 2012</a></p>
+      <hr>
+      <div class="row">
+        <div class="col-sm-6 col-md-3">
+          <h3><a href="http://ua.linkedin.com/pub/vyatcheslav-potravnyy/4a/414/50b/">Вячеслав Потравный</a></h3>
+          <p class="lead">Методы SEO в одностраничных приложениях</p>
+
+          <img width="200" src="http://m.c.lnkd.licdn.com/media/p/6/000/23e/325/13e4d75.jpg" alt="Vyatcheslav Potravnyy" />
+          <p>Middle Front-end Developer at INTERSOG</p>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <h3>Докладчик №2, уточняется</h3>
+          <p class="lead">...</p>
+          <span class="icon-stack huge">
+            <i class="icon-camera"></i>
+            <i class="icon-ban-circle icon-stack-base text-error"></i>
+          </span>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <h3>Докладчик №3, уточняется</h3>
+          <p class="lead">...</p>
+          <span class="icon-stack huge">
+            <i class="icon-camera"></i>
+            <i class="icon-ban-circle icon-stack-base text-error"></i>
+          </span>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <h3>Докладчик №4, уточняется</h3>
+          <p class="lead">...</p>
+          <span class="icon-stack huge">
+            <i class="icon-camera"></i>
+            <i class="icon-ban-circle icon-stack-base text-error"></i>
+          </span>
+        </div>
+
+      </div>
+    </section>
+
+    <script type="text/javascript">
+    var contacts = function (name) {
+      var team = {
+        "max": {
+          "id": "klymyshyn",
+          "domain": "gmail.com",
+          "phone": "+380 (98) 718 34 82",
+          "skype": "max.klymyshyn"
+        },
+        "eldar": {
+          "id": "djkojb",
+          "domain": "gmail.com",
+          "phone": "+380 (50) 644 53 56",
+          "skype": "ka_djko"
+        }
+      };
+      var user = team[name];
+      document.write('<br />Email: <a href="mailto:' + user.id + '@' + user.domain + '">');
+      document.write(user.id + '@' + user.domain);
+      document.write('</a><br />');
+      document.write('Phone: ' + user.phone);
+      if (user.skype) {
+          document.write("<br />Skype: <strong>" + user.skype + "</strong>");
+      }
+    };
+    </script>
+
+    <footer class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <p class="col-lg-4">&copy; 2012-2013 KyivJS Team</p>
+          <div class="pull-right col-lg-8 row">
+            <p class="col-lg-6">
+              <a class="lead organizer" href="http://www.linkedin.com/in/klymyshyn">Максим Климишин</a>
+              <small>
+                <script type="text/javascript">contacts('max');</script>
+              </small>
+            </p>
+            <p class="col-lg-6">
+              <a href="http://www.linkedin.com/in/edjafarov" class="organizer">Эльдар Джафаров</a>
+              <small>
+                <script type="text/javascript">contacts('eldar');</script>
+              </small>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script>
+    </script>
+  </body>
+</html>
