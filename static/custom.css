@@ -1,3 +1,8 @@
+header {
+    position:relative;
+    top:0;left:0;
+    padding-top:0 !important;
+}
 footer {
     margin-bottom:0 !important;
 }
@@ -11,6 +16,7 @@ footer {
 
 .huge {
     font-size:8em;
+    margin-top:0.2em;
 }
 
 .icon-ban-circle  {
@@ -46,3 +52,17 @@ footer {
     margin-top:1em;
 }
 
+
+.ciklum {
+    background-image:url(ciklum.png);
+    background-size:100% 100%;
+    width:196px;
+    height:60px;
+    position:absolute;
+    top:95px;
+    right:-365px;
+}
+
+.ciklum strong {
+    display:none;
+}
