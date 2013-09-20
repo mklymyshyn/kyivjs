@@ -19,6 +19,10 @@ footer {
     margin-top:0.2em;
 }
 
+.small {
+    font-size:0.8em;
+}
+
 .icon-ban-circle  {
     color:#d9534f;
 }
