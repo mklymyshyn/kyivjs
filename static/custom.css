@@ -2,6 +2,7 @@ header {
     position:relative;
     top:0;left:0;
     padding-top:0 !important;
+    padding-bottom:0.8em !important;
 }
 footer {
     margin-bottom:0 !important;
@@ -19,7 +20,7 @@ footer {
     margin-top:0.2em;
 }
 
-.small {
+p.small {
     font-size:0.8em;
 }
 
@@ -58,6 +59,7 @@ footer {
 
 
 .ciklum {
+    display:none;
     background-image:url(ciklum.png);
     background-size:100% 100%;
     width:196px;
@@ -69,4 +71,57 @@ footer {
 
 .ciklum strong {
     display:none;
+}
+
+
+@media (max-width: 1080px) {
+  .jumbotron h1 {
+    font-size:40px !important;
+  }
+  .twitter {
+    font-size:30px;
+    line-height:40px;
+  }
+  .icon-youtube-play {
+    margin-left:-0.3em !important;
+    clear:both;
+    float:left !important;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .jumbotron h1 {
+    font-size:30px !important;
+  }
+  .jumbotron h3 {
+    font-size:18px !important;
+  }
+  .twitter {
+    font-size:30px;
+    line-height:40px;
+  }
+  .icon-youtube-play {
+    margin-left:-0.3em !important;
+    clear:both;
+    float:left !important;
+  }
+}
+
+
+@media (max-width: 450px) {
+  .jumbotron h1 {
+    font-size:20px !important;
+  }
+  .jumbotron h3 {
+    font-size:14px !important;
+  }
+  .twitter {
+    font-size:20px;
+    line-height:30px;
+  }
+}
+
+.speaker {
+  min-height:370px;
 }
