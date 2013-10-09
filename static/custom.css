@@ -74,6 +74,55 @@ p.small {
 }
 
 
+.no-registration {
+  padding-bottom:10px;
+}
+.speakers-row {
+  margin-bottom:30px;
+}
+
+.speaker {
+  min-height:370px;
+  padding-bottom:15px;
+}
+.speaker h3 {
+  height:50px;
+}
+.speaker img {
+  margin-bottom:15px;
+}
+.speaker p.lead {
+  min-height:90px;
+}
+
+
+.afterparty {
+  background-color:#343434;
+  color:#fff;
+  padding:30px;
+}
+.afterparty h2 {
+  font-size:5em;
+  font-weight:normal;
+}
+
+@media (max-width: 1200px) {
+  .speaker {
+    text-align:center;
+  }
+  .speaker h3 {
+    height:22px;
+    font-size:24px;
+    text-align:center;
+  }
+  .speaker p.lead {
+    text-align:center;
+    min-height:60px;
+  }
+}
+
+
+
 @media (max-width: 1080px) {
   .jumbotron h1 {
     font-size:40px !important;
@@ -86,6 +135,25 @@ p.small {
     margin-left:-0.3em !important;
     clear:both;
     float:left !important;
+  }
+
+  .no-registration h3 {
+    font-size:20px;
+  }
+  .speaker {
+    text-align:center;
+  }
+  .speaker h3 {
+    height:22px;
+    font-size:24px;
+    text-align:center;
+  }
+  .speaker p.lead {
+    text-align:center;
+    min-height:60px;
+  }
+  .speaker img {
+    width:180px;
   }
 }
 
@@ -106,6 +174,33 @@ p.small {
     clear:both;
     float:left !important;
   }
+  .no-registration h3 {
+    font-size:20px;
+  }
+
+  .speaker {
+    height:auto;
+    min-height:0;
+    text-align:center;
+    border-bottom:1px solid #c9c9c9;
+  }
+  .speaker h3 {
+    font-size:22px;
+    height:auto;
+    text-align:center;
+  }
+  .speaker p.lead {
+    height:auto;
+    min-height:0;
+    text-align:center;
+  }
+  .speaker img {
+    width:180px;
+  }
+  .afterparty h2 {
+    font-size:3em;
+  }
+
 }
 
 
@@ -120,8 +215,31 @@ p.small {
     font-size:20px;
     line-height:30px;
   }
+  .no-registration h3 {
+    font-size:16px;
+  }
+
+  .speaker {
+    height:auto;
+    min-height:0;
+    text-align:center;
+    border-bottom:1px solid #a8a8a8;
+  }
+  .speaker h3 {
+    font-size:18px;
+    height:auto;
+    text-align:center;
+  }
+  .speaker p.lead {
+    height:auto;
+    min-height:0;
+    text-align:center;
+  }
+  .speaker img {
+    width:150px;
+  }
+  .afterparty h2 {
+    font-size:2em;
+  }
 }
 
-.speaker {
-  min-height:370px;
-}
