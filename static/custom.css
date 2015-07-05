@@ -157,6 +157,12 @@ p.small {
   }
 }
 
+@media (min-width: 768px) and (max-width: 1080px) {
+  .speaker:nth-child(2n+3) {
+    clear: left;
+  }
+}
+
 
 @media (max-width: 768px) {
   .jumbotron h1 {
@@ -182,7 +188,6 @@ p.small {
     height:auto;
     min-height:0;
     text-align:center;
-    border-bottom:1px solid #c9c9c9;
   }
   .speaker h3 {
     font-size:22px;
@@ -201,6 +206,12 @@ p.small {
     font-size:3em;
   }
 
+}
+
+@media (max-width: 767px) {
+  .speaker {
+    border-bottom:1px solid #c9c9c9;
+  }
 }
 
 
