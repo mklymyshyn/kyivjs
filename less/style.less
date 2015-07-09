@@ -1,0 +1,72 @@
+@import 'header';
+@import 'schedule';
+@import 'speakers';
+@import 'contacts';
+
+html {
+    font-family: sans-serif;
+
+        -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    background-color: transparent;
+}
+
+a:active, a:hover {
+    outline: 0;
+}
+
+
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'fontello';
+    src: url('./icon-font/fontello.eot?37920751');
+    src: url('./icon-font/fontello.eot?37920751#iefix') format('embedded-opentype'),
+    url('./icon-font/fontello.woff?37920751') format('woff'),
+    url('./icon-font/fontello.ttf?37920751') format('truetype'),
+    url('./icon-font/fontello.svg?37920751#fontello') format('svg');
+}
+
+[class*=' icon-']:before {
+    display: inline-block;
+    margin-right: .2em;
+    width: 1em;
+    text-align: center;
+    text-decoration: inherit;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-family: 'fontello';
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter:before {
+    content: '\e800';
+}
+.icon-skype:before {
+    content: '\e801';
+}
+.icon-phone:before {
+    content: '\e803';
+}
+.icon-terminal:before {
+    content: '\e805';
+}
+.icon-linkedin-squared:before {
+    content: '\e806';
+}
+.icon-mail:before {
+    content: '\e80b';
+}
+.icon-youtube-play:before {
+    content: '\e80d';
+}
