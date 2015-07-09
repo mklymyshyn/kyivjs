@@ -1,0 +1,27 @@
+[{
+  "name":     "Максим Климишин",
+  "email":    "klymyshyn@gmail.com",
+  "phone":    "+380 (98) 718 34 82",
+  "skype":    "max.klymyshyn",
+  "link":     "http://www.linkedin.com/in/klymyshyn",
+  "pic":      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/1ba/217/19ef794.jpg",
+  "localPic": "./img/klymyshyn.jpg"
+},
+{
+  "name":     "Эльдар Джафаров",
+  "email":    "djkojb@gmail.com",
+  "phone":    "+380 (50) 644 53 56",
+  "skype":    "ka_djko",
+  "link":     "http://www.linkedin.com/in/edjafarov",
+  "pic":      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIxAAAAJDhmZGYzNGFjLTg1OGYtNDIzOC1iNjY5LTEwOGQyYTEyNzY5Yg.jpg",
+  "localPic": "./img/djafarov.jpg"
+},
+{
+  "name":     "Александр Лапшин",
+  "email":    "smd.deluzion@gmail.com",
+  "phone":    "+380 (98) 996 87 37",
+  "skype":    "john_brown_a.k.a._postman",
+  "link":     "https://ua.linkedin.com/pub/oleksandr-lapshyn/72/663/860",
+  "pic":      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/017/02a/0746089.jpg",
+  "localPic": "./img/lapshyn.jpg"
+}]

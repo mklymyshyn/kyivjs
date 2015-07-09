@@ -1,0 +1,46 @@
+doctype
+html
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='x-ua-compatible' content='ie=edge')
+    title Kyiv.JS - Конференция по Front-End разработке
+    meta(name='viewport' content='width=device-width, initial-scale=1')
+    meta(name='description', content='Киевский слет front-end разработчиков. Все самое интересное о JavaScript, CoffeeScript и прочие технологии связанные с UI/UX')
+    style
+      include ../style.css
+
+  body
+    .header
+      h1.header-title KyivJS Meetup
+      span.header-logo.icon-terminal
+      a.header-twitter.icon-twitter(href= 'https://twitter.com/KyivJS')
+
+    .schedule
+      .schedule-when 12 июля 11 утра
+      .schedule-where Киев, Ciklum, ул. Амосова, 12
+      .schedule-what 4 доклада, 4 докладчика
+      a.schedule-video.icon-youtube-play(href='http://www.youtube.com/watch?v=nsfpgtqq1IQ') KyivJS 2012
+      .schedule-reg Регистрация завершена
+
+    .speakers
+      for s in speakers
+        .speaker
+          a.speaker-name(href= s.link)= s.name
+          .speaker-topic= s.topic
+          img.speaker-pic(src= s.localPic?s.localPic:s.pic alt= s.alt?s.alt:s.name)
+          .speaker-info!= s.info
+
+    .contacts
+      .contacts-copyright © 2012-2015 KyivJS Team:
+      for c in contacts
+        .contact
+          img.contact-pic(src= c.localPic?c.localPic:c.pic alt= c.name)
+          .contact-info
+            a.contact-name.icon-linkedin-squared(href= c.link)= c.name
+            a.contact-mail.icon-mail(href= 'mailto:'+c.email)= c.email
+            .contact-phone.icon-phone= c.phone
+            .contact-skype.icon-skype= c.skype
+
+
+
+
