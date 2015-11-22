@@ -4,9 +4,13 @@ body {
     margin:0 auto;
     padding:30px;
 }
-img { height: 150px; } 
-ul { list-style: none; }
-ul > li { 
+img { height: 150px; }
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+ul > li {
     /* older webkit */
     display: -webkit-box;
     -webkit-box-align: center;
@@ -26,7 +30,19 @@ ul > li {
     /* Standard Form - IE 11+, FF 22+, Chrome 29+, Opera 17+ */
     display: flex;
     align-items: center;
+
+    width: 50%;
 }
+
+h1 + ul > li {
+  width: 25%;
+}
+
+h1 + ul > li:last-child > a {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
 ul > li > img + a {
     margin-left: 20px;
 }
