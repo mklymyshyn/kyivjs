@@ -16,7 +16,7 @@ layout: default
   - ![Avatar](https://media.licdn.com/media/p/3/000/1c4/0e9/0f90821.jpg) [Алексей Распопов](https://www.linkedin.com/profile/view?id=126122043) 
   - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAJYAAAAJDMwZDZmYWEwLWYzMzEtNDlmYy05NGFhLTZlMDBhNGJlZWVlNA.jpg) [Іван Лаврів](https://ua.linkedin.com/in/ivan-lavriv-16b23878/en)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1f2/103/0461928.jpg)[Андрей Музалевский](https://ua.linkedin.com/in/andreymuzalevskiy/en)
-  - ![Avatar](https://media.licdn.com/media/p/7/005/048/22c/0c34bb4.jpg)[Денис Стоянов](https://ua.linkedin.com/in/stoyanov-denis-92229374/en)
+  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAASRAAAAJGU3NzUzMWY3LWRjZGQtNGUxZC1hZDg3LTlhMTQzZDJhNzhhMw.jpg) [Артем Сычев](https://www.linkedin.com/in/suchov/en)
 
 ## Previous Speakers
 
@@ -73,7 +73,7 @@ layout: default
 ## Organizers Team:
 
 #### Currently Run by
-- [Александр Лапшин](https://ua.linkedin.com/pub/oleksandr-lapshyn/72/663/860https://twitter.com/sudodoki)
+- [Александр Лапшин](https://twitter.com/sudodoki)
 
     [написать](https://gitter.im/sudodoki)
 
