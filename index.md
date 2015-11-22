@@ -77,18 +77,18 @@ layout: default
 
 ## Organizers Team:
 
-### Currently Run by
+#### Currently Run by
 - [Александр Лапшин](https://ua.linkedin.com/pub/oleksandr-lapshyn/72/663/860https://twitter.com/sudodoki)
-  Email: smd.deluzion@gmail.com
-  https://gitter.im/sudodoki
+
+    [написать](https://gitter.im/sudodoki)
 
 - [Андрей Листочкин](https://twitter.com/listochkin)
-  Email: listochkin@outlook.com
-  https://gitter.im/listochkin
+  
+    [написать](https://gitter.im/listochkin)
 
-### Founding Team
+#### Founding Team
 - [Максим Климишин](http://www.linkedin.com/in/klymyshyn)
-  Email: klymyshyn@gmail.com
 
 - [Эльдар Джафаров](http://www.linkedin.com/in/edjafarov)
-  Email: djkojb@gmail.com
+
+&copy; since 2012

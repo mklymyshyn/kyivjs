@@ -52,3 +52,14 @@ h1 + ul > li:last-child > a {
 ul > li > img + a {
     margin-left: 20px;
 }
+
+h4 + ul > li {
+  display: block;
+  font-weight: bold;
+}
+
+h4 + ul > li > p + p > a {
+  font-size: 0.9em;
+  font-style: italic;
+  font-weight: normal;
+}
