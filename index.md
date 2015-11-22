@@ -9,12 +9,9 @@ layout: default
   - [Github](https://github.com/joymax/kyivjs)
   - [Регистрация]()
 
-# Upcoming Event
+## Upcoming Event: December 5th, 11:00 a.m.
 
-
-
-5 декабря 11 утра
-Донская 4а, [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+[Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 
 4 доклада, 4 докладчика
 
