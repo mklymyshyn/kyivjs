@@ -7,7 +7,7 @@ layout: default
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
   - [Github](https://github.com/joymax/kyivjs)
-  - [Регистрация]()
+  - Регистрация<br> Скоро Откроется
 
 ## Upcoming Event: December 5th, 11:00 a.m.
 
