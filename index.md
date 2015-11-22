@@ -81,7 +81,7 @@ layout: default
 ### Currently Run by
 - [Александр Лапшин](https://ua.linkedin.com/pub/oleksandr-lapshyn/72/663/860https://twitter.com/sudodoki)
   Email: smd.deluzion@gmail.com
-  [@sudodoki](https://gitter.im/sudodoki)
+  https://gitter.im/sudodoki
 
 - [Андрей Листочкин](https://twitter.com/listochkin)
   Email: listochkin@outlook.com
