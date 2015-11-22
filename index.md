@@ -2,13 +2,12 @@
 layout: default
 ---
 
-# KyivJS
+# ![KyivJS](static/kyiv-js-rectangle-no-alpha.png)
 
-  - ![Logo](static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Github repo](https://github.com/joymax/kyivjs)
-  - #[Регистрация]()
+  - [Github](https://github.com/joymax/kyivjs)
+  - [Регистрация]()
 
 # Upcoming Event
 

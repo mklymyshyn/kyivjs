@@ -33,6 +33,16 @@ ul > li {
 
     width: 50%;
 }
+
+h1 + ul > li {
+  width: 25%;
+}
+
+h1 + ul > li:last-child > a {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
 ul > li > img + a {
     margin-left: 20px;
 }
