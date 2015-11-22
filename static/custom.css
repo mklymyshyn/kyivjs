@@ -32,6 +32,12 @@ ul > li {
     align-items: center;
 
     width: 50%;
+
+    margin-bottom: 1em;
+}
+
+ul > li > img {
+  border-radius: 1em;
 }
 
 h1 + ul > li {
