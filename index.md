@@ -11,7 +11,7 @@ layout: default
 
 [Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 
-4 доклада, 4 докладчика
+4 доклада, 4 докладчика, **все доклады и обсуждения на английском языке**
 
   - ![Avatar](https://media.licdn.com/media/p/3/000/1c4/0e9/0f90821.jpg) [Алексей Распопов](https://www.linkedin.com/profile/view?id=126122043) 
   - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAJYAAAAJDMwZDZmYWEwLWYzMzEtNDlmYy05NGFhLTZlMDBhNGJlZWVlNA.jpg) [Іван Лаврів](https://ua.linkedin.com/in/ivan-lavriv-16b23878/en)
