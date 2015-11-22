@@ -40,11 +40,22 @@ ul > li > img {
   border-radius: 1em;
 }
 
-h1 + ul > li {
-  width: 25%;
+ul:first-child > li {
+  width: auto;
+  min-width: 15%;
+  margin-bottom: 0;
 }
 
-h1 + ul > li:last-child > a {
+ul:first-child > li:first-child {
+  min-width: 300px;
+}
+
+ul:first-child > li h1 {
+  border: none;
+  margin: 0;
+}
+
+ul:first-child > li:last-child {
   font-weight: bold;
   font-size: 1.5rem;
 }

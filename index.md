@@ -2,12 +2,10 @@
 layout: default
 ---
 
-# ![KyivJS](static/kyiv-js-rectangle-no-alpha.png)
-
+  - # ![KyivJS](static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Github](https://github.com/joymax/kyivjs)
-  - Регистрация<br> Скоро Откроется
+  - [Регистрация<br> Скоро Откроется]()
 
 ## Upcoming Event: December 5th, 11:00 a.m.
 
