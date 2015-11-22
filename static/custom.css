@@ -1,256 +1,32 @@
-header {
-    position:relative;
-    top:0;left:0;
-    padding-top:0 !important;
-    padding-bottom:0.8em !important;
+body {
+    min-width:200px;
+    max-width:790px;
+    margin:0 auto;
+    padding:30px;
 }
-footer {
-    margin-bottom:0 !important;
+img { height: 150px; } 
+ul { list-style: none; }
+ul > li { 
+    /* older webkit */
+    display: -webkit-box;
+    -webkit-box-align: center;
+
+    /* older firefox */
+    display: -moz-box;
+    -moz-box-align: center;
+
+    /* IE10*/
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+
+    /* newer webkit */
+    display: -webkit-flex;
+    -webkit-align-items: center;
+
+    /* Standard Form - IE 11+, FF 22+, Chrome 29+, Opera 17+ */
+    display: flex;
+    align-items: center;
 }
-
-.logo {
-    display:inline-block;
-    padding:0.2em;
-    border-radius:0.3em;
-    background-color:#ffff00;
+ul > li > img + a {
+    margin-left: 20px;
 }
-
-.huge {
-    font-size:8em;
-    margin-top:0.2em;
-}
-
-p.small {
-    font-size:0.8em;
-}
-
-.icon-ban-circle  {
-    color:#d9534f;
-}
-
-.twitter {
-    font-size:2em;
-}
-
-.twitter:hover, .twitter:active,
-.video:hover, .video:active {
-    text-decoration:none;
-}
-
-.video {
-    padding:0.1em;
-    padding-right:0.3em;
-    padding-left:0.3em;
-    font-weight:bold;
-    letter-spacing:-0.07em;
-}
-.video:hover, .video:active {
-    background-color:#428bca;
-    color:#fff;
-    border-radius:0.3em;
-}
-.video:active {
-    background-color:#328bc9;
-}
-
-.m-top {
-    margin-top:1em;
-}
-
-
-.ciklum {
-    display:none;
-    background-image:url(ciklum.png);
-    background-size:100% 100%;
-    width:196px;
-    height:60px;
-    position:absolute;
-    top:95px;
-    right:-365px;
-}
-
-.ciklum strong {
-    display:none;
-}
-
-
-.no-registration {
-  padding-bottom:10px;
-}
-.speakers-row {
-  margin-bottom:30px;
-}
-
-.speaker {
-  min-height:370px;
-  padding-bottom:15px;
-}
-.speaker h3 {
-  height:50px;
-}
-.speaker img {
-  margin-bottom:15px;
-}
-.speaker p.lead {
-  min-height:90px;
-}
-
-
-.afterparty {
-  background-color:#343434;
-  color:#fff;
-  padding:30px;
-}
-.afterparty h2 {
-  font-size:5em;
-  font-weight:normal;
-}
-
-@media (max-width: 1200px) {
-  .speaker {
-    text-align:center;
-  }
-  .speaker h3 {
-    height:22px;
-    font-size:24px;
-    text-align:center;
-  }
-  .speaker p.lead {
-    text-align:center;
-    min-height:60px;
-  }
-}
-
-
-
-@media (max-width: 1080px) {
-  .jumbotron h1 {
-    font-size:40px !important;
-  }
-  .twitter {
-    font-size:30px;
-    line-height:40px;
-  }
-  .icon-youtube-play {
-    margin-left:-0.3em !important;
-    clear:both;
-    float:left !important;
-  }
-
-  .no-registration h3 {
-    font-size:20px;
-  }
-  .speaker {
-    text-align:center;
-  }
-  .speaker h3 {
-    height:22px;
-    font-size:24px;
-    text-align:center;
-  }
-  .speaker p.lead {
-    text-align:center;
-    min-height:60px;
-  }
-  .speaker img {
-    width:180px;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 1080px) {
-  .speaker:nth-child(2n+3) {
-    clear: left;
-  }
-}
-
-
-@media (max-width: 768px) {
-  .jumbotron h1 {
-    font-size:30px !important;
-  }
-  .jumbotron h3 {
-    font-size:18px !important;
-  }
-  .twitter {
-    font-size:30px;
-    line-height:40px;
-  }
-  .icon-youtube-play {
-    margin-left:-0.3em !important;
-    clear:both;
-    float:left !important;
-  }
-  .no-registration h3 {
-    font-size:20px;
-  }
-
-  .speaker {
-    height:auto;
-    min-height:0;
-    text-align:center;
-  }
-  .speaker h3 {
-    font-size:22px;
-    height:auto;
-    text-align:center;
-  }
-  .speaker p.lead {
-    height:auto;
-    min-height:0;
-    text-align:center;
-  }
-  .speaker img {
-    width:180px;
-  }
-  .afterparty h2 {
-    font-size:3em;
-  }
-
-}
-
-@media (max-width: 767px) {
-  .speaker {
-    border-bottom:1px solid #c9c9c9;
-  }
-}
-
-
-@media (max-width: 450px) {
-  .jumbotron h1 {
-    font-size:20px !important;
-  }
-  .jumbotron h3 {
-    font-size:14px !important;
-  }
-  .twitter {
-    font-size:20px;
-    line-height:30px;
-  }
-  .no-registration h3 {
-    font-size:16px;
-  }
-
-  .speaker {
-    height:auto;
-    min-height:0;
-    text-align:center;
-    border-bottom:1px solid #a8a8a8;
-  }
-  .speaker h3 {
-    font-size:18px;
-    height:auto;
-    text-align:center;
-  }
-  .speaker p.lead {
-    height:auto;
-    min-height:0;
-    text-align:center;
-  }
-  .speaker img {
-    width:150px;
-  }
-  .afterparty h2 {
-    font-size:2em;
-  }
-}
-
