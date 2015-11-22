@@ -5,7 +5,6 @@ layout: default
 # KyivJS
 
   - ![Logo](static/kyiv-js-rectangle-no-alpha.png)
-
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
   - [Github repo](https://github.com/joymax/kyivjs)
@@ -65,9 +64,9 @@ layout: default
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/24f/1b5/1ab24e6.jpg) [Александр Соловьев](https://ua.linkedin.com/in/asolovyov)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAM_AAAAJDRlODFjYjI0LWM3ODktNDg1Ni1iNDYyLTI3MmEwYTJjZDYxZg.jpg) [Артем Бей](https://ua.linkedin.com/in/artembey)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/2aa/142/102933a.jpg) [Вячеслав Пител](https://ua.linkedin.com/in/vpytel)
-  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0b7/359/24745ee.jpg) [Андрей Друченко](https://ua.linkedin.com/in/bananos) ???
+  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0b7/359/24745ee.jpg) [Андрей Друченко](https://ua.linkedin.com/in/bananos)
   - ![Avatar](https://media.licdn.com/media/p/3/000/0cf/15f/279f8c5.jpg) [Юлия Пучнина](https://ua.linkedin.com/in/yulia-puchnina-17473a36/en)
-  - ![Avatar](https://media.licdn.com/media/p/1/000/1d0/396/177c198.jpg) [Юрий Сильвестров](https://ua.linkedin.com/in/ysilvestrov) ???
+  - ![Avatar](https://media.licdn.com/media/p/1/000/1d0/396/177c198.jpg) [Юрий Сильвестров](https://ua.linkedin.com/in/ysilvestrov)
   - ![Avatar](static/speaker-male-placeholder.jpg) [Михаил Валков]()
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/037/34d/376aace.jpg) [Евгений Жарков](https://ua.linkedin.com/in/eugenezharkov)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/1b5/116/25bb788.jpg) [Ярослав Пономаренко](https://ua.linkedin.com/in/yponomarenko)
@@ -82,7 +81,7 @@ layout: default
 ### Currently Run by
 - [Александр Лапшин](https://ua.linkedin.com/pub/oleksandr-lapshyn/72/663/860https://twitter.com/sudodoki)
   Email: smd.deluzion@gmail.com
-  [@sudodoki](https://gitter.im/sudodoki)
+  https://gitter.im/sudodoki
 
 - [Андрей Листочкин](https://twitter.com/listochkin)
   Email: listochkin@outlook.com
