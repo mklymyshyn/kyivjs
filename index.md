@@ -2,19 +2,14 @@
 layout: default
 ---
 
-# ![KyivJS](static/kyiv-js-rectangle-no-alpha.png)
-
+  - # ![KyivJS](static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Github](https://github.com/joymax/kyivjs)
-  - [Регистрация]()
+  - [Регистрация<br> Скоро Откроется]()
 
-# Upcoming Event
+## Upcoming Event: December 5th, 11:00 a.m.
 
-
-
-5 декабря 11 утра
-Донская 4а, [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+[Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 
 4 доклада, 4 докладчика
 
@@ -77,18 +72,18 @@ layout: default
 
 ## Organizers Team:
 
-### Currently Run by
+#### Currently Run by
 - [Александр Лапшин](https://ua.linkedin.com/pub/oleksandr-lapshyn/72/663/860https://twitter.com/sudodoki)
-  Email: smd.deluzion@gmail.com
-  https://gitter.im/sudodoki
+
+    [написать](https://gitter.im/sudodoki)
 
 - [Андрей Листочкин](https://twitter.com/listochkin)
-  Email: listochkin@outlook.com
-  https://gitter.im/listochkin
+  
+    [написать](https://gitter.im/listochkin)
 
-### Founding Team
+#### Founding Team
 - [Максим Климишин](http://www.linkedin.com/in/klymyshyn)
-  Email: klymyshyn@gmail.com
 
 - [Эльдар Джафаров](http://www.linkedin.com/in/edjafarov)
-  Email: djkojb@gmail.com
+
+&copy; since 2012
