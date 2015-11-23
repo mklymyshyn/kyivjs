@@ -4,12 +4,41 @@ body {
     margin:0 auto;
     padding:30px;
 }
+
 img { height: 150px; }
+
 ul {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
 }
+
+.languages {
+  padding: 20px 20px 0;
+  justify-content: flex-end;
+}
+
+.languages > li {
+  width: 30px;
+  flex-basis: 30px; flex-shrink: 1;
+}
+
+.languages > li + li {
+  margin-left: 5px;
+}
+
+.languages > li + li:before {
+  content: '|';
+  margin-right: 10px;
+}
+
+.languages > li.active a {
+  color: black;
+  font-weight: bolder;
+  pointer-events: none;
+  text-decoration: none;
+}
+
 ul > li {
     /* older webkit */
     display: -webkit-box;
