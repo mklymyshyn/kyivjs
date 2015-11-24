@@ -104,3 +104,37 @@ h4 + ul > li > p + p > a {
   font-style: italic;
   font-weight: normal;
 }
+
+/* Responsive properties */
+
+.markdown-body > ul:first-child li {
+  margin-right: 5px;
+}
+
+.markdown-body img{
+  max-width: 150px;
+}
+
+body > div > ul:nth-child(1) > li:nth-child(1) > h1 > img{
+  max-width: 100%;
+}
+
+@media (max-width: 650px) {
+  .markdown-body > ul {
+    padding: 0;
+  }
+
+  .markdown-body > ul li {
+    flex-direction: column;
+  }
+
+  .markdown-body > ul:first-child li {
+    flex-direction: row;
+  }
+}
+
+@media (max-width: 399px) {
+  .markdown-body > ul li{
+    width: 100%;
+  }
+}
