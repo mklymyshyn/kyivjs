@@ -119,6 +119,12 @@ body > div > ul:nth-child(1) > li:nth-child(1) > h1 > img{
   max-width: 100%;
 }
 
+@media (max-width: 960px) {
+  .languages{
+    padding-right: 60px;
+  }
+}
+
 @media (max-width: 650px) {
   .markdown-body > ul {
     padding: 0;
