@@ -5,7 +5,7 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Registration<br> Coming soon]()
+  - [Registration](https://docs.google.com/forms/d/1SGQeSeVKGZZSL54oa4yz6ZSk1Y32XLQob1gMQAwmFvo/viewform)
 
 ## Upcoming Event: December 5th, 11:00 a.m.
 
