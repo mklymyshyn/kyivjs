@@ -5,20 +5,20 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Регистрация](https://docs.google.com/forms/d/1SGQeSeVKGZZSL54oa4yz6ZSk1Y32XLQob1gMQAwmFvo/viewform)
+  - Регистрация <br> скоро откроется
 
-## Следующая встреча: 5 декабря, 11:00
+## Следующая встреча: TBA
+<!-- [Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+ -->
+Меж тем, если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
-[Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+## Предыдущие встречи
 
-4 доклада, 4 докладчика, **все доклады и обсуждения на английском языке**
+### [5 декабря, 2015](http://dou.ua/calendar/9101/), [Видео](javascript:alert\('Скоро будут'\);)
 
-  - ![Avatar](https://media.licdn.com/media/p/3/000/1c4/0e9/0f90821.jpg) [Алексей Распопов](https://www.linkedin.com/profile/view?id=126122043) 
   - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAJYAAAAJDMwZDZmYWEwLWYzMzEtNDlmYy05NGFhLTZlMDBhNGJlZWVlNA.jpg) [Іван Лаврів](https://ua.linkedin.com/in/ivan-lavriv-16b23878/en)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1f2/103/0461928.jpg)[Андрей Музалевский](https://ua.linkedin.com/in/andreymuzalevskiy/en)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWjAAAAJGIwZGEzZmI5LTRkY2QtNGQ4MS1hMDY3LTE0NjNmNDQ5N2UxYQ.jpg) [Артем Сычев](https://www.linkedin.com/in/suchov/en)
-
-## Предыдущие встречи
 
 ### [12 июля, 2015]()
 
@@ -71,7 +71,7 @@ layout: default
 
 
 ## Организаторы
-
+<mark id="write-anchor"></mark>
 #### Сейчас курируют
 - [Александр Лапшин](https://twitter.com/sudodoki)
 

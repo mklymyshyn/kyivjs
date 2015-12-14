@@ -5,20 +5,22 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Registration](https://docs.google.com/forms/d/1SGQeSeVKGZZSL54oa4yz6ZSk1Y32XLQob1gMQAwmFvo/viewform)
+  - Registration <br> Coming soon
 
-## Upcoming Event: December 5th, 11:00 a.m.
-
+## Upcoming Event: TBA
+<!-- 
 [Donskaya 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+ -->
+Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
-4 talks, 4 speakers, **all talks are in English**
 
-  - ![Avatar](https://media.licdn.com/media/p/3/000/1c4/0e9/0f90821.jpg) [Alexey Raspopov](https://www.linkedin.com/profile/view?id=126122043) 
+## Previous Speakers
+
+### [December 5th, 2015](http://dou.ua/calendar/9101/), [Videos](javascript:alert\('Coming soon'\);)
+
   - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAJYAAAAJDMwZDZmYWEwLWYzMzEtNDlmYy05NGFhLTZlMDBhNGJlZWVlNA.jpg) [Ivan Lavriv](https://ua.linkedin.com/in/ivan-lavriv-16b23878/en)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1f2/103/0461928.jpg)[Andrii Muzalevskyi](https://ua.linkedin.com/in/andreymuzalevskiy/en)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWjAAAAJGIwZGEzZmI5LTRkY2QtNGQ4MS1hMDY3LTE0NjNmNDQ5N2UxYQ.jpg) [Artem Sychov](https://www.linkedin.com/in/suchov/en)
-
-## Previous Speakers
 
 ### [July 12th, 2015]()
 
@@ -71,7 +73,7 @@ layout: default
 
 
 ## Organizers Team:
-
+<mark id="write-anchor"></mark>
 #### Currently Run by
 - [Alex Lapshyn](https://twitter.com/sudodoki)
 
