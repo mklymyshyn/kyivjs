@@ -13,7 +13,7 @@ layout: default
 
 4 доклада, 4 докладчика, **часть докладов и обсуждения на английском языке**
 
-- ![Аватар](https://pbs.twimg.com/profile_images/1099723610/a_81d470db.jpg) [Денис Зайченко](https://twitter.com/MrZaYaC)
+- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Денис Зайченко](https://www.linkedin.com/in/dzaichenko)
 
 Меж тем, если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
