@@ -7,12 +7,15 @@ layout: default
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
   - Registration <br> Coming soon
 
-## Upcoming Event: TBA
-<!-- 
-[Donskaya 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
- -->
-Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
+## Upcoming Event: January 30th, 11:00 a.m.
 
+[Donskaya 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+
+4 talks, 4 speakers, **part of talks is in English**
+
+- ![Avatar](https://pbs.twimg.com/profile_images/1099723610/a_81d470db.jpg) [Denis Zaichenko](https://twitter.com/MrZaYaC)
+
+Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
 ## Previous Speakers
 
@@ -80,7 +83,7 @@ Meanwhile, if you want to share something with the community, we encourage you t
     [get in touch](https://gitter.im/sudodoki)
 
 - [Andrew Listochkin](https://twitter.com/listochkin)
-  
+
     [get in touch](https://gitter.im/listochkin)
 
 #### Founding Team
