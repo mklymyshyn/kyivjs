@@ -7,9 +7,14 @@ layout: default
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
   - Регистрация <br> скоро откроется
 
-## Следующая встреча: TBA
-<!-- [Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
- -->
+## Следующая встреча: 30 января, 11:00
+
+[Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+
+4 доклада, 4 докладчика, **часть докладов и обсуждения на английском языке**
+
+- ![Аватар](https://pbs.twimg.com/profile_images/1099723610/a_81d470db.jpg) [Денис Зайченко](https://twitter.com/MrZaYaC)
+
 Меж тем, если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
 ## Предыдущие встречи
@@ -78,7 +83,7 @@ layout: default
     [написать](https://gitter.im/sudodoki)
 
 - [Андрей Листочкин](https://twitter.com/listochkin)
-  
+
     [написать](https://gitter.im/listochkin)
 
 #### Основатели инициативы
