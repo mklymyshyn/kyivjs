@@ -13,7 +13,7 @@ layout: default
 
 4 talks, 4 speakers, **part of talks is in English**
 
-- ![Avatar](https://pbs.twimg.com/profile_images/1099723610/a_81d470db.jpg) [Denis Zaichenko](https://twitter.com/MrZaYaC)
+- ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Denis Zaichenko](https://www.linkedin.com/in/dzaichenko)
 
 Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
