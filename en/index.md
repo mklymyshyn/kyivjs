@@ -15,6 +15,7 @@ layout: default
 
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Denis Zaichenko](https://www.linkedin.com/in/dzaichenko)
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Pavel Ponomarenko](https://github.com/theshock)
+- ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Aleksey Shvayka](https://www.linkedin.com/in/ashvayka)
 
 Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
