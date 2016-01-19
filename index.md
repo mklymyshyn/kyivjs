@@ -14,7 +14,8 @@ layout: default
 4 доклада, 4 докладчика, **часть докладов и обсуждения на английском языке**
 
 - ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Денис Зайченко](https://www.linkedin.com/in/dzaichenko)
-- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Павел Пономаренко](https://ua.linkedin.com/in/pavel-ponomarenko-290b9b7a/en)
+- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Павел Пономаренко](https://github.com/theshock)
+- ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Алексей Швайка](https://www.linkedin.com/in/ashvayka)
 
 Меж тем, если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
