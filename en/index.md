@@ -14,6 +14,7 @@ layout: default
 4 talks, 4 speakers, **part of talks is in English**
 
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Denis Zaichenko](https://www.linkedin.com/in/dzaichenko)
+- ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Pavel Ponomarenko](https://ua.linkedin.com/in/pavel-ponomarenko-290b9b7a/en)
 
 Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
