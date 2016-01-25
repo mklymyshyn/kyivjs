@@ -5,7 +5,7 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - Registration <br> Coming soon
+  - [Registration](https://docs.google.com/forms/d/1STin1SD4o1lx9DNCUTqFrwjc5JxzOPROyDb8EJUz2CI/viewform)
 
 ## Upcoming Event: January 30th, 11:00 a.m.
 
@@ -16,8 +16,7 @@ layout: default
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Denis Zaichenko](https://www.linkedin.com/in/dzaichenko)
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Pavel Ponomarenko](https://github.com/theshock)
 - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Aleksey Shvayka](https://www.linkedin.com/in/ashvayka)
-
-Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
+- ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0ac/25b/06c95fa.jpg) [Evgeniy Safronov](https://github.com/javacodegeek)
 
 ## Previous Speakers
 

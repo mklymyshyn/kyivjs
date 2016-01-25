@@ -5,7 +5,7 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - Регистрация <br> скоро откроется
+  - [Регистрация](https://docs.google.com/forms/d/1STin1SD4o1lx9DNCUTqFrwjc5JxzOPROyDb8EJUz2CI/viewform)
 
 ## Следующая встреча: 30 января, 11:00
 
@@ -16,8 +16,7 @@ layout: default
 - ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Денис Зайченко](https://www.linkedin.com/in/dzaichenko)
 - ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Павел Пономаренко](https://github.com/theshock)
 - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Алексей Швайка](https://www.linkedin.com/in/ashvayka)
-
-Меж тем, если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
+- ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0ac/25b/06c95fa.jpg) [Евгений Сафронов](https://github.com/javacodegeek)
 
 ## Предыдущие встречи
 
