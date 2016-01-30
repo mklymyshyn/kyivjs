@@ -45,6 +45,15 @@
 </ul>
 
 <script>
-  var language = window.location.pathname.slice(1).split('/')[0] || 'ru';
-  document.querySelector(".languages .js-" + language).classList.add('active');
+  (function (window, document) {
+
+    var language = window.location.pathname.slice(1).split('/')[0] || 'ru';
+    var langEl = document.querySelector(".languages .js-" + language);
+    if (!langEl) {
+      return;
+    }
+
+    langEl.classList.add('active');
+
+  })(window, document);
 </script>
