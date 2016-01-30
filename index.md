@@ -4,7 +4,7 @@ layout: default
 
 
 <div class="logo"></div>
-- # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
+- # ![KyivJS](gstatic/kyiv-js-rectangle-no-alpha.png)
 
 <div class="header"></div>
 - [Twitter](https://twitter.com/kyivjs)
