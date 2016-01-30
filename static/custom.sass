@@ -1,0 +1,164 @@
+body
+  min-width: 200px
+  max-width: 790px
+  margin: 0 auto
+  padding: 30px
+
+  font-size: 16px
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif
+
+
+
+ul
+  list-style: none
+  margin: 0
+  padding: 0
+
+
+=break-tablet
+  @media (min-width: 768px)
+    @content
+.logo + ul
+  display: inline-block
+  padding: 0
+  margin: 0
+  text-align: center
+  width: 100%
+
+  +break-tablet
+    width: auto
+    vertical-align: middle
+    margin-top: -40px
+
+
+  h1
+    border: 0
+    margin: 0
+    padding: 0
+    line-height: 1
+  img
+    width: 244px
+
+
+.languages
+  font-size: 0
+  margin-left: -5px
+  margin-right: -5px
+  text-align: center
+
+  display: block
+
+  @media (min-width: 768px)
+    text-align: right
+    margin-top: 40px
+    //float: right
+    //margin-bottom: -40px
+
+  li
+    font-size: 16px
+    display: inline-block
+    margin: 0 5px
+
+    & + li
+      &:before
+        content: '|'
+        margin-right: 10px
+
+    &.active a
+      color: black
+      font-weight: bolder
+      pointer-events: none
+      text-decoration: none
+
+.header, .logo
+  display: inline-block
+  vertical-align: middle
+  height: 0
+  width: 0
+
+.header + ul
+  text-align: center
+  font-size: 0
+  margin-top: -10px
+
+  h3
+    vertical-align: bottom
+    margin: 0
+
+  +break-tablet
+    text-align: left
+    float: right
+    margin-top: 10px
+
+  li
+
+    font-size: 16px
+    display: inline-block
+    vertical-align: middle
+    margin-top: 10px
+    width: 100%
+    @media (min-width: 768px)
+      width: auto
+      margin-left: 10px
+
+      min-width: 90px
+      &:first-child
+        margin-right: 20px
+        min-width: 0
+
+.meet + ul
+  font-size: 0
+  margin-top: 20px
+  display: block
+  img
+    border-radius: 1em
+    height: 150px
+
+  li
+    font-size: 16px
+    display: block
+    //width: 50%
+    margin-bottom: 1em
+    text-align: center
+    @media (min-width: 321px)
+      width: 50%
+      display: inline-block
+      vertical-align: top
+
+    @media (min-width: 769px)
+      text-align: left
+      padding-top: 40px
+
+      img
+        float: left
+        margin-right: 20px
+        margin-bottom: 20px
+        margin-top: -40px
+
+  a
+    display: block
+
+.managers + ul
+  margin: 0
+  padding: 0
+
+  text-align: center
+  font-size: 0
+
+  a
+    margin-top: 10px
+    display: inline-block
+  li
+    font-size: 16px
+    margin-top: 10px
+    display: inline-block
+    width: 100%
+
+    +break-tablet
+      width: 50%
+      text-align: left
+
+.footer
+  margin-top: 40px
+
+
