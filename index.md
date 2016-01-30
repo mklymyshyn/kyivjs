@@ -88,17 +88,18 @@ layout: default
 ## Организаторы
 <mark id="write-anchor"></mark>
 #### Сейчас курируют
-- [Александр Лапшин](https://twitter.com/sudodoki)
 
-    [написать](https://gitter.im/sudodoki)
-
-- [Андрей Листочкин](https://twitter.com/listochkin)
-
-    [написать](https://gitter.im/listochkin)
+<div class="managers"></div>
+- **[Александр Лапшин](https://twitter.com/sudodoki)**  
+*[написать](https://gitter.im/sudodoki)*
+- **[Андрей Листочкин](https://twitter.com/listochkin)**  
+*[написать](https://gitter.im/listochkin)*
 
 #### Основатели инициативы
-- [Максим Климишин](http://www.linkedin.com/in/klymyshyn)
 
-- [Эльдар Джафаров](http://www.linkedin.com/in/edjafarov)
+<div class="managers"></div>
+- **[Максим Климишин](http://www.linkedin.com/in/klymyshyn)**
+- **[Эльдар Джафаров](http://www.linkedin.com/in/edjafarov)**
 
+<div class="footer"></div>
 &copy; с 2012
