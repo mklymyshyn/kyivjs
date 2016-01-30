@@ -77,12 +77,12 @@ layout: default
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0b7/359/24745ee.jpg) [Andrew Druchenko](https://ua.linkedin.com/in/bananos)
 - ![Avatar](https://media.licdn.com/media/p/3/000/0cf/15f/279f8c5.jpg) [Yulia Puchnina](https://ua.linkedin.com/in/yulia-puchnina-17473a36/en)
 - ![Avatar](https://media.licdn.com/media/p/1/000/1d0/396/177c198.jpg) [Silvestrov Yuriy](https://ua.linkedin.com/in/ysilvestrov)
-- ![Avatar](/static/speaker-male-placeholder.jpg) [Mikhail Valkov]()
+- ![Avatar](static/speaker-male-placeholder.jpg) [Mikhail Valkov]()
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/037/34d/376aace.jpg) [Eugene Zharkov](https://ua.linkedin.com/in/eugenezharkov)
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/1b5/116/25bb788.jpg) [Yaroslav Ponomarenko](https://ua.linkedin.com/in/yponomarenko)
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/078/2ee/2b1c2c3.jpg) [Yehor Lvivski](https://ua.linkedin.com/in/lvivski)
-- ![Avatar](/static/speaker-male-placeholder.jpg) [Vitaliy Stepanenko]()
-- ![Avatar](/static/speaker-male-placeholder.jpg) [Eugene Naumenko]()
+- ![Avatar](static/speaker-male-placeholder.jpg) [Vitaliy Stepanenko]()
+- ![Avatar](static/speaker-male-placeholder.jpg) [Eugene Naumenko]()
 
 
 

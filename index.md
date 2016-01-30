@@ -78,12 +78,12 @@ layout: default
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0b7/359/24745ee.jpg) [Андрей Друченко](https://ua.linkedin.com/in/bananos)
 - ![Avatar](https://media.licdn.com/media/p/3/000/0cf/15f/279f8c5.jpg) [Юлия Пучнина](https://ua.linkedin.com/in/yulia-puchnina-17473a36/en)
 - ![Avatar](https://media.licdn.com/media/p/1/000/1d0/396/177c198.jpg) [Юрий Сильвестров](https://ua.linkedin.com/in/ysilvestrov)
-- ![Avatar](/static/speaker-male-placeholder.jpg) [Михаил Валков]()
+- ![Avatar](static/speaker-male-placeholder.jpg) [Михаил Валков]()
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/037/34d/376aace.jpg) [Евгений Жарков](https://ua.linkedin.com/in/eugenezharkov)
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/1b5/116/25bb788.jpg) [Ярослав Пономаренко](https://ua.linkedin.com/in/yponomarenko)
 - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/078/2ee/2b1c2c3.jpg) [Егор Львовский](https://ua.linkedin.com/in/lvivski)
-- ![Avatar](/static/speaker-male-placeholder.jpg) [Виталий Степаненко]()
-- ![Avatar](/static/speaker-male-placeholder.jpg) [Евгений Науменко]()
+- ![Avatar](static/speaker-male-placeholder.jpg) [Виталий Степаненко]()
+- ![Avatar](static/speaker-male-placeholder.jpg) [Евгений Науменко]()
 
 ## Организаторы
 <mark id="write-anchor"></mark>
