@@ -13,10 +13,10 @@ layout: default
 
 4 доклада, 4 докладчика, **часть докладов и обсуждения на английском языке**
 
-- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Денис Зайченко](https://www.linkedin.com/in/dzaichenko)
-- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Павел Пономаренко](https://github.com/theshock)
-- ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Алексей Швайка](https://www.linkedin.com/in/ashvayka)
-- ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0ac/25b/06c95fa.jpg) [Евгений Сафронов](https://github.com/javacodegeek)
+- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Денис Зайченко](https://www.linkedin.com/in/dzaichenko) *Talk name*
+- ![Аватар](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Павел Пономаренко](https://github.com/theshock) *Talk name*
+- ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Алексей Швайка](https://www.linkedin.com/in/ashvayka) *Talk name*
+- ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0ac/25b/06c95fa.jpg) [Евгений Сафронов](https://github.com/javacodegeek) *Talk name*
 
 ## Предыдущие встречи
 
