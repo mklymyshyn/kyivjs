@@ -5,7 +5,7 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Registration](https://docs.google.com/forms/d/1STin1SD4o1lx9DNCUTqFrwjc5JxzOPROyDb8EJUz2CI/viewform)
+  - [Registration <br/> Coming Soon]()
 
 ## Upcoming Event: TBA
 <!--
@@ -17,10 +17,21 @@ Meanwhile, if you want to share something with the community, we encourage you t
 
 ### [January 30th, 2016](http://dou.ua/calendar/9623/), [Videos](javascript:alert\('Coming soon'\);)
 
-  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg) [Denis Zaichenko](https://www.linkedin.com/in/dzaichenko)
-  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg) [Pavel Ponomarenko](https://github.com/theshock)
-  - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg) [Aleksey Shvayka](https://www.linkedin.com/in/ashvayka)
-  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0ac/25b/06c95fa.jpg) [Evgeniy Safronov](https://github.com/javacodegeek)
+  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0a8/057/07bb452.jpg)
+    > [**Denis Zaichenko**](https://www.linkedin.com/in/dzaichenko)  
+    [Best practices - Angular JS]()
+
+  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZDAAAAJGM0ZTIzMzRkLTUzMjEtNDU3Yi1hNTM4LTI1YzZkNWIxZTNkZA.jpg)
+    > [**Pavlo Ponomarenko**](https://github.com/theshock)  
+    [Plugins for JavaScript games](http://slides.com/theshock/javascript-plugins/)
+
+  - ![Avatar](https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJDVlZTAwOTZlLTdkZDEtNDUzNy1hYjk5LTMzNTk5MjNkZDA0OQ.jpg)
+    > [**Aleksey Shvayka**](https://www.linkedin.com/in/ashvayka)  
+    [ES6 Classes]()
+
+  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0ac/25b/06c95fa.jpg)
+    > [**Evgeniy Safronov**](https://github.com/javacodegeek)  
+    [Scala.JS](https://www.dropbox.com/s/dnkkgwjflul54ny/Scala-JS%20%28KyivJS%2030-01%29.pdf?dl=0)
 
 
 ### [December 5th, 2015](http://dou.ua/calendar/9101/), [Videos](javascript:alert\('Coming soon'\);)
@@ -52,7 +63,7 @@ Meanwhile, if you want to share something with the community, we encourage you t
 
 ### [October 19th, 2013](http://dou.ua/calendar/3915/)
 
-  - ![Avatar](http://m.c.lnkd.licdn.com/media/p/6/000/23e/325/13e4d75.jpg) [Vyatcheslav Potravnyy](http://ua.linkedin.com/pub/vyatcheslav-potravnyy/4a/414/50b/)
+  - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATeAAAAJGNlYzVjOGYzLTNkMzMtNGEzZi1hNzAzLWE3OTgyMjExMmI1MQ.jpg) [Vyatcheslav Potravnyy](http://ua.linkedin.com/pub/vyatcheslav-potravnyy/4a/414/50b/)
   - ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJzAAAAJDk4ZDBjNTBhLWRhNjQtNDU1OS1hOWQ2LTZhYTQ5NjMzY2JkYQ.jpg) [Dmitri Voronianski](http://ua.linkedin.com/in/voronianski/)
   - ![Avatar](http://m.c.lnkd.licdn.com/media/p/2/000/22a/288/3df5e98.jpg) [Dmitry Chaplinsky](http://ua.linkedin.com/pub/dmitry-chaplinsky/24/784/760)
   - ![Avatar](http://s24.postimg.org/m8b7ulrz9/photo.jpg) [Viktor Turskyi](https://www.linkedin.com/in/turskyi)
