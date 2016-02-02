@@ -105,6 +105,9 @@ h4 + ul > li > p + p > a {
   font-weight: normal;
 }
 
+.markdown-body > ul > li > blockquote {
+  border-left: none;
+}
 /* Responsive properties */
 
 .markdown-body > ul:first-child li {
